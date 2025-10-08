@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaExercicios1", "ListaExercicios1\ListaExercicios1.csproj", "{4B9B67D8-2970-4D59-8175-9EABAC79C678}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "ListaExercicios1\Exercicio1.csproj", "{4B9B67D8-2970-4D59-8175-9EABAC79C678}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2", "Exercicio2\Exercicio2.csproj", "{C7ACDED6-FAF0-4EE6-8815-3F455F0A581C}"
 EndProject
