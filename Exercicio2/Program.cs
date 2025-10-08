@@ -1,0 +1,10 @@
+﻿int Number;
+Console.WriteLine("Digite um número inteiro: ");
+Number = int.Parse(Console.ReadLine());
+
+if(Number % 2 == 0){
+    Console.WriteLine(Number + " é par");
+}
+else{
+    Console.WriteLine(Number + " é ímpar"); 
+}
